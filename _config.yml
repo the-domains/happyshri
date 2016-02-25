@@ -1,0 +1,28 @@
+name: happyshri
+favicon: null
+layout_spectrum: 0.02091036643832922
+typography_spectrum: 0.06671559065580368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.023725510109215975
+  lightness: 0.31086970772594213
+  saturation: 0.4849662168417126
+  rhythmicContrast: 0.6663586392533034
+purpose: []
